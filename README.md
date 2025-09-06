@@ -3,14 +3,14 @@ A simple yet functional To-Do List Web App built with Node.js, Express, and vani
 The app allows users to add, mark complete, delete, and clear tasks, with support for both server-side session storage and local browser storage.
 
 **Features**
--Add new tasks
--Mark tasks as completed/uncompleted
--Delete individual tasks
--Clear all tasks at once
--Session-based storage (via Express sessions)
+*Add new tasks
+*Mark tasks as completed/uncompleted
+*Delete individual tasks
+*Clear all tasks at once
+*Session-based storage (via Express sessions)
 
 **Tech Stack**
--Frontend
+*Frontend
   +HTML, CSS, Javascript
 -Backend
   -Node.js, Express.js
