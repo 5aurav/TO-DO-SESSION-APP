@@ -18,14 +18,15 @@ The app allows users to add, mark complete, delete, and clear tasks, with suppor
   - Body-parser for API handling
 
 **Project Structure**
+
 <img width="219" height="278" alt="image" src="https://github.com/user-attachments/assets/fc4b38be-e822-4e27-b419-b3f8093d5daf" />
 
 **Installation & Setup**
-- Prerequisites
+- Prerequisites\
 Node.js (v14+)
 npm (Node package manager)
 
-- Steps
+- Steps\
 1.Clone the repository
 git clone https://github.com/yourusername/todo-app.git
 cd todo-app
