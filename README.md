@@ -31,14 +31,14 @@ npm (Node package manager)
 git clone https://github.com/yourusername/todo-app.git
 cd todo-app
 
-2.Install dependencies
-npm install express express-session body-parser
+  2.Install dependencies
+  npm install express express-session body-parser
 
-3.Start the server
-node server.js
+  3.Start the server
+  node server.js
 
-4.Open your browser and visit:
-http://localhost:3000
+  4.Open your browser and visit:
+  http://localhost:3000
 
 **API Endpoints**
 - GET /api/todos → Fetch all tasks
